@@ -1,0 +1,26 @@
+{
+    "files.associations": {
+        "*.c": "c"
+    },
+    "files.encoding": "gbk",
+    // "files.autoGuessEncoding": true,
+    "Codegeex.RepoIndex": true,
+    
+    // "workbench.list.smoothScrolling": true,
+    // "editor.cursorSmoothCaretAnimation": "on",
+    // "editor.smoothScrolling": true,
+    // "editor.cursorBlinking": "smooth",
+    "editor.mouseWheelZoom": true,
+    // "editor.formatOnPaste": true,
+    // "editor.formatOnType": true,
+    // "editor.formatOnSave": true,
+    "editor.wordWrap": "on",
+    "editor.guides.bracketPairs": true,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.acceptSuggestionOnEnter": "smart",
+    "editor.suggestSelection": "recentlyUsed",
+    "window.dialogStyle": "custom",
+    "debug.showBreakpointsInOverviewRuler": true,
+        
+      
+}
