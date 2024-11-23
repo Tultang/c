@@ -1,6 +1,10 @@
 #include<stdio.h>
 
 int main() {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 5bce32a9517d8ea63eeeb43da32d4548b995c7b8
     int integer1, integer2, integer3, mid;
     printf("Please enter three integer: ");
     scanf("%d %d %d.", &integer1, &integer2, &integer3);
@@ -12,5 +16,10 @@ int main() {
         mid = integer3;
     }
     printf("The median is %d.", mid);
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 93f186b79f2935211a0b57f8eba3a8162be7cd31
+>>>>>>> 5bce32a9517d8ea63eeeb43da32d4548b995c7b8
     return 0;
 }
