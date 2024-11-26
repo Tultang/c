@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+//计算消费金额（使用swhile函数）
 int main() {
     int num, sum = 0;
     do {
