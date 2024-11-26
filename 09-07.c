@@ -17,4 +17,3 @@ int main() {
     while (guess != answer);
     return 0;
 }
-//
