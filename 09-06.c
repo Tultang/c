@@ -1,5 +1,5 @@
 #include<stdio.h>
-//印出1到10的连续整数
+//印出1到10的连续整数/
 /* int main() {
     int num = 1;
     while (num <= 10) {
