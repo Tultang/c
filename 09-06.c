@@ -1,5 +1,5 @@
 #include<stdio.h>
-//å°å‡º1åˆ°10çš„è¿ç»­æ•´æ•°
+//Ó¡³ö1µ½10µÄÁ¬ĞøÕûÊı
 /* int main() {
     int num = 1;
     while (num <= 10) {
@@ -8,7 +8,7 @@
     }
     return 0;
 } */
-//å°å‡º1åˆ°N
+//Ó¡³ö1µ½N
 int main() {
     int N, num = 1;
     printf("Please enter the number: ");
