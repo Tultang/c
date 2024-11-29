@@ -2,7 +2,7 @@
 
 int main() {
     int guess, answer = 4;
-//至少做一次的重复执行（do - while函数/
+//至少做一次的重复执行（do - while函数
     do {
         printf("Please enter your guess: ");
         scanf("%d", &guess);
